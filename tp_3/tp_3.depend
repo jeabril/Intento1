@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541622550 source:c:\users\maxi\desktop\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+
+1541622642 c:\users\maxi\desktop\tp_3\employee.h
+
+1541622858 source:c:\users\maxi\desktop\tp_3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+
